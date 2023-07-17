@@ -2,11 +2,11 @@
 [X] button element on the DOM
     - HTML or jQuery
     [X] button text reads 'Generate'
-    [ ] append a new <div> element on each click
-        [ ] inside create a <p> element that shows how many clicks on 'Generate' button
+    [X] append a new <div> element on each click
+        [X] inside create a <p> element that shows how many clicks on 'Generate' button
             - can use the same append
             - should reflect the count for that step
-    [ ] Inside new <div> element append two <button> elements with text of 'Yellow' & 'Delete'
+    [X] Inside new <div> element append two <button> elements with text of 'Yellow' & 'Delete'
         - can again reuse append from first step
     
    CSS
